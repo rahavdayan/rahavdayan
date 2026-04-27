@@ -1,7 +1,5 @@
 # Nice to meet you! #
 
-My name is Rahav Dayan, I am a recent CS & Math grad from NJIT and I am love software development.
+Rahav Dayan | AI Engineer
 
-Lately, I've been honing my backend development skills, although I am interested in pursuing applied AI/ML.
-
-Feel free to browse through what I've been working on and I hope you enjoy!
+I am a CS and Math graduate from NJIT focused on the intersection of AI and backend development. I specialize in building LLM-based applications and the database infrastructure that powers them. My work centers on integrating AI tools into functional software systems. I am dedicated to engineering production-ready solutions at the core of software and AI. Feel free to explore my latest projects below.
