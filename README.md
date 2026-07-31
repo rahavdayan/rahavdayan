@@ -1,6 +1,11 @@
-# Rahav Dayan
+### Hi, I'm Rahav 👋
 
-I take existing LLMs and wire them into real systems and real data to ship production-ready tools. My work spans designing full LLM pipelines end to end, and building agentic tooling like MCP servers and eval frameworks.
+I build AI into apps, taking LLMs and connecting them to real data and real workflows.
 
-📧 [rahavdayan@gmail.com](mailto:rahavdayan@gmail.com)
-🔗 [linkedin.com/in/rahav-dayan-8bb541288](https://www.linkedin.com/in/rahav-dayan-8bb541288)
+- 🔭 Currently a **Junior Software Developer Intern** at North Rock Capital Management
+- 🛠️ I work across the full stack: backend services, data integrations, and the AI layer that ties them together
+- 📫 Reach me at [rahavdayan@gmail.com](mailto:rahavdayan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rahav-dayan-8bb541288)
+
+---
+
+**Tech I work with:** Python · TypeScript · FastAPI · Next.js · PostgreSQL · Docker · AWS
