@@ -1,5 +1,6 @@
-# Rahav Dayan | AI Engineer #
+# Rahav Dayan
 
-Nice to meet you!
+I take existing LLMs and wire them into real systems and real data to ship production-ready tools. My work spans designing full LLM pipelines end to end, and building agentic tooling like MCP servers and eval frameworks.
 
-I am a CS and Math graduate from NJIT focused on the intersection of AI and backend development. I specialize in building LLM-based applications and the database infrastructure that powers them. My work centers on integrating AI tools into functional software systems. I am dedicated to engineering production-ready solutions at the core of software and AI. Feel free to explore my latest projects below.
+📧 [rahavdayan@gmail.com](mailto:rahavdayan@gmail.com)
+🔗 [linkedin.com/in/rahav-dayan-8bb541288](https://www.linkedin.com/in/rahav-dayan-8bb541288)
