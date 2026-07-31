@@ -1,9 +1,9 @@
 ### Hi, I'm Rahav 👋
 
-I build AI into apps, taking LLMs and connecting them to real data and real workflows.
+I'm an AI engineer who builds LLM-powered apps, from internal chatbots to agent integrations that plug into real systems and data.
 
-- 🔭 Currently a **Junior Software Developer Intern** at North Rock Capital Management
-- 🛠️ I work across the full stack: backend services, data integrations, and the AI layer that ties them together
+- 🔭 Currently a **Junior Software Developer** at North Rock Capital Management
+- 🛠️ I work across the full stack: backend and data, plus the AI layer that ties an app together.
 - 📫 Reach me at [rahavdayan@gmail.com](mailto:rahavdayan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rahav-dayan-8bb541288)
 
 ---
